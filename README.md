@@ -1,8 +1,7 @@
 # javascript-typescript-piaic-adventure-game
 
-Certainly, here's a raw `readme.md` file with scripts for the provided code:
 
-```markdown
+
 # Text-Based Combat Game
 
 This is a simple text-based combat game built with Node.js. In this game, you'll take on various enemies and engage in combat. Your goal is to defeat the enemy or survive as long as you can.
@@ -18,10 +17,9 @@ This is a simple text-based combat game built with Node.js. In this game, you'll
 4. Run the following command to start the game:
 
 ```bash
-node your_script_name.js
+node game.js
 ```
 
-Replace `your_script_name.js` with the actual name of the JavaScript file containing the code.
 
 ## Features
 
@@ -63,4 +61,4 @@ Nazneen Akram
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-```
+
